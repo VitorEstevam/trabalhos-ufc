@@ -1,5 +1,7 @@
-# Trabalhos-ufc
+# Trabalhos UFC
+
 Projetos feitos nas cadeiras do curso de Sistemas e Mídias Digitais
+
 | Projeto                                                                                  | Descrição                                                 | Disciplina                         |
 |------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------|
 | [Cucumber Tests](https://github.com/VitorEstevam/cucumber-tests)                         | Testes da ferramenta Cucumber                             | Testes de software                 |
