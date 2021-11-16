@@ -1,8 +1,5 @@
 # Trabalhos-ufc
-Projetos feitos nas cadeiras do curso de Sistmas e Mídias Digitais
-
-## Python Bubble Sort - Estruturas de dados
-
+Projetos feitos nas cadeiras do curso de Sistemas e Mídias Digitais
 
 | Projeto                    	| Descrição                                                 	| Disciplina                         	|
 |----------------------------	|-----------------------------------------------------------	|------------------------------------	|
